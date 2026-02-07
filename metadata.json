@@ -1,0 +1,9 @@
+
+{
+  "name": "EcoPuntos - Recicla y Gana",
+  "description": "Una aplicación móvil diseñada para fomentar la economía circular. Gana puntos por reciclar materiales como PET, cartón y aluminio, y encuentra centros de acopio cercanos en nuestro mapa interactivo.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
